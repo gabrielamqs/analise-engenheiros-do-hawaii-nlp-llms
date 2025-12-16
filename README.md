@@ -59,22 +59,25 @@ Gráfico Score TF-IDF:
 <img src="score_td-idf.png">
 
 2 - Geração de Letras
+
 Trecho da música "Manual de Instruções Para Dias Improváveis" criada pelo ChatGPT:
-"Estamos vivos — por enquanto
-Rindo do próprio desencanto
-Num país que aprende filosofia
-Assistindo debate no intervalo da novela das oito
+
+"Estamos vivos — por enquanto/
+Rindo do próprio desencanto/
+Num país que aprende filosofia/
+Assistindo debate no intervalo da novela das oito/
 E acreditando no que vem pronto"
 
 Trecho da música "O Algoritmo de Sísifo" criada pelo Gemini:
-"Derrubamos muros pra viver em condomínios fechados 
-A tal liberdade é um plano de dados ilimitados 
-Crescemos tanto que batemos a cabeça no teto de vidro 
-O futuro é um filme cult que ninguém tem assistido 
-Eles dizem que a terra é plana, eu digo que a vida é chata 
+
+"Derrubamos muros pra viver em condomínios fechados/ 
+A tal liberdade é um plano de dados ilimitados/ 
+Crescemos tanto que batemos a cabeça no teto de vidro/ 
+O futuro é um filme cult que ninguém tem assistido/
+Eles dizem que a terra é plana, eu digo que a vida é chata/ 
 Navegando em círculos num barco de sucata."
 
-Análise: As duas IAs criaram letras com temas de tecnologia e sociedade, parecidos com o estilo dos Engenheiros do Hawaii. O Gemini se saiu melhor porque manteve uma linha de raciocínio mais coesa durante toda a música, falando sobre as contradições modernas - tipo "derrubamos muros mas vivemos em condomínios fechados" e "liberdade virou plano de dados ilimitados". Essas frases têm aquele jogo de palavras irônico que a banda usa, enquanto o ChatGPT pareceu jogar frases filosóficas soltas em cada verso, como se tentasse imitar o estilo sem conectar direito as ideias. O Gemini também usou bem mais o vocabulário dominante da banda que identificamos antes (39% das palavras-chave como "tudo", "nada", "ninguém" contra apenas 25% do ChatGPT). Quanto ao tom, o Gemini captou melhor aquele cinismo inteligente dos Engenheiros - não fica reclamando, só aponta o absurdo com ironia. O ChatGPT ficou mais no tom de lamentação. O Gemini ainda mostrou entender da sonoridade da banda, sugerindo "baixo marcante" e "solo melódico e limpo", enquanto o ChatGPT focou só na letra. Os temas são similares aos originais (alienação, busca existencial, crítica social), mas o Gemini trabalhou isso de forma mais densa e paradoxal, igual a banda faz, enquanto o ChatGPT foi mais superficial e explicativo.
+Análise: As duas IAs criaram letras com temas de tecnologia e sociedade, parecidos com o estilo dos Engenheiros do Hawaii. O Gemini se saiu melhor porque manteve uma linha de raciocínio mais coesa durante toda a música, falando sobre as contradições modernas - tipo "derrubamos muros mas vivemos em condomínios fechados" e "liberdade virou plano de dados ilimitados". Essas frases têm aquele jogo de palavras irônico que a banda usa, enquanto o ChatGPT pareceu jogar frases filosóficas soltas em cada verso, como se tentasse imitar o estilo sem conectar direito as ideias. O Gemini também usou bem mais o vocabulário dominante da banda que identificamos antes (palavras-chave como "tudo", "nada", "ninguém"). Quanto ao tom, o Gemini captou melhor aquele cinismo inteligente dos Engenheiros - não fica reclamando, só aponta o absurdo com ironia. O ChatGPT ficou mais no tom de lamentação. O Gemini ainda mostrou entender da sonoridade da banda, sugerindo "baixo marcante" e "solo melódico e limpo", enquanto o ChatGPT focou só na letra. Os temas são similares aos originais (alienação, busca existencial, crítica social), mas o Gemini trabalhou isso de forma mais densa e paradoxal, igual a banda faz, enquanto o ChatGPT foi mais superficial e explicativo.
 
 
 3 - Classificação Intuitiva
